@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <title>azraelcontas</title>
   <head>
