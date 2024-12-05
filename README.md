@@ -4,7 +4,7 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-   <center><img src="https://i.im.ge/2024/05/02/ZC2a2r.Picsart-24-04-29-00-41-46-681.jpeg" height="200px" width="200px"></center>
+   <center><img src="https://i.im.ge/2024/12/05/zhvTcS.1000168431.jpeg" height="200px" width="200px"></center>
 <center><h1>AZRAEL</h1></center>
 <center><h2>Ola sou AZRAEL eu trabalho com pequenas ajudas, na area de ciber-segurança</h2></center>
 <center><p>Bem vindo a minha página de divulgação onde vou te direcionar diretamente para meus perfis, caso queira me constatar</p></center>
