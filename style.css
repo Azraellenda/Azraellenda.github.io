@@ -1,0 +1,39 @@
+body {
+  background-image: url('https://i.ibb.co/WnDmpQz/65526ddf6e7b491b9afb263471067e5c.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.style-h1{
+  color: white;
+}
+
+.style-p {
+  color: white;
+}
+
+p {
+  color: white;
+  background-color: #69696999;
+  border-radius: 10px;
+}
+
+img {
+  border-radius: 500px;
+}
+
+h3 {
+  color: white;
+ font-family: Georgia;
+}
+
+button {
+  background-color: cyan;
+  height: 100px;
+  width: 300px;
+  border-radius: 10px 10px 10px 10px;
+}
+
+a {
+  color: black;
+}
