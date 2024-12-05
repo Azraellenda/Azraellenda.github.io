@@ -1,4 +1,3 @@
-<html lang="pt-BR">
     <head>
       <title>Azrael Divulgação</title>
       <link rel="stylesheet" href="style.css">
