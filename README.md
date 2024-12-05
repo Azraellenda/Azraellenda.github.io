@@ -22,10 +22,14 @@
       <p>Aqui você pode estar me chamando para tirar mais duvidas e etc!</p>
       <button><a href="https://wa.me/5531991365558"><strong>MEU WHATSAPP</strong></button>
        <br>
+       <br>
+       <br>
       <img src="https://i.ibb.co/k5MQNz5/Picsart-24-12-05-16-52-32-708.jpg" width="300" height="300"><br>
       <h3 class="sub-title">MEU MÉTODO DE BAN</h3>
       <p>Abaixo estará o link de vendas do meu método privado de banimento.</p>
       <button><a href="https://wa.me/5531991365558"></a><strong>MEU MÉTODO</strong></button>
+       <br>
+       <br>
        <br>
       <img src="https://i.ibb.co/tqmsSv7/Picsart-24-12-01-14-17-23-894.jpg" width="400" height="400"><br>
       <h3 class="sub-title">RECRUTAMENTO LØS</h3>
