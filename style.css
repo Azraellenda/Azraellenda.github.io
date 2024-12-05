@@ -32,6 +32,7 @@ button {
   height: 100px;
   width: 300px;
   border-radius: 10px 10px 10px 10px;
+  text-align: center;
 }
 
 a {
